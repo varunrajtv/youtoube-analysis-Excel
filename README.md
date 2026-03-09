@@ -5,7 +5,7 @@ This project analyzes global YouTube channel statistics using Microsoft Excel.
 2. Microsoft Excel
 3. Pivot Tables
 4. Charts
-5.Slicers
+5. Slicers
 
  Key Insights
 * Distribution of channels by country
